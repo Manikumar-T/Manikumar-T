@@ -2,9 +2,9 @@
 <div align="center">
 
 
-╔══════════════════════════════════════════════════════╗
-║   Infrastructure Engineer  ·  SecOps  ·  AI Builder  ║
-╚══════════════════════════════════════════════════════╝
+
+   Infrastructure Engineer  ·  SecOps  ·  AI Builder  
+
 
 
 *Self-taught technologist — from bare-metal repair to local LLM deployment.*  
