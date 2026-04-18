@@ -1,11 +1,11 @@
 <!-- Header -->
 <div align="center">
 
-```
+
 ╔══════════════════════════════════════════════════════╗
 ║   Infrastructure Engineer  ·  SecOps  ·  AI Builder  ║
 ╚══════════════════════════════════════════════════════╝
-```
+
 
 *Self-taught technologist — from bare-metal repair to local LLM deployment.*  
 *I operate at the intersection of enterprise infrastructure, security, and applied AI.*
